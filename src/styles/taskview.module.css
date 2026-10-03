@@ -176,7 +176,7 @@ h1 {
   border-radius: 12px;
 }
 
-@media (max-width: 700px) {
+@media only width and (max-width: 700px) {
   .board {
     padding: 22px;
   }
